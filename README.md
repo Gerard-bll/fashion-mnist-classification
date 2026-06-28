@@ -1,4 +1,4 @@
-# Fashion-MNIST Image Classification — Classical ML, Deep Learning & Generative AI Pipeline
+# Fashion-MNIST Image Classification — ML, Deep Learning & Generative AI
 
 End-to-end data mining project on the **Fashion-MNIST** dataset (70,000 grayscale 28×28 clothing images, 10 classes). The project covers exploratory data analysis, custom feature engineering, classical ML with ensembling, a convolutional neural network, model evaluation, and a bonus generative AI layer that creates product descriptions and powers semantic search over a synthetic product catalog.
 
